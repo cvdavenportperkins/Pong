@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 751b777c0c9ab594a999b4a37df441c3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bodyPrefab: {instanceID: 0}
+  - scoreTextP1: {instanceID: 0}
+  - scoreTextP2: {instanceID: 0}
+  - grid: {fileID: 6986411112513480194, guid: b390a8b9dc4c2b946af123fe24c147e7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
